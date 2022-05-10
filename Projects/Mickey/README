@@ -1,0 +1,10 @@
+Use Turtle Graphics to draw a Mickey Mouse head as shown in the following image
+
+
+ MickyMouse.png
+
+- The face is blue and the eyes and ears are red.
+
+- The radius of the blue circle (face) is two times the radius of the ears and the radius of the eyes are 20% of the radius of the face.
+
+- The position of the ears and eyes in your solution does Not have to 'exactly' match The position of the ears and eyes in the above image. However, the ears and the face circles should not intersect too much or be too far apart. The eyes should also be in the upper section of the face and not too close or too far apart. 
