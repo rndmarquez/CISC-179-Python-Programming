@@ -1,0 +1,11 @@
+Write a GUI that implements the calculator shown in the following image:
+
+
+- User enters two integers into the text fields.
+
+- When Add button is pressed, the sum of  the values in the text fields are shown after the Equals: as a label.
+
+- The Clear button clears the values in the text fields. The cleared values can be blank or zero.
+
+- The Quit button closes the GUI window. 
+
