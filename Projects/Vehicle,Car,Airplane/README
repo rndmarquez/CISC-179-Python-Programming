@@ -1,0 +1,33 @@
+A- Define a class called Vehicle as follows:
+
+The Vehicle class has two instance variables:
+name,
+max_speed
+Define an __init__ function for the Vehicle class that initializes the name and max_speed instance variables
+Define get and set methods for each of the name and max_speed variables. You may call them getName, getMax_speed, setName and setMax_speed
+Define a __str__ function that prints the name and max_speed of the Vehicle class.
+B- Define a class called Car as follows:
+
+The Car class is a subclass of the Vehicle class.
+The Car class has an instance variable called number_of_cylinders
+Define an __init__ function for the Car class that initializes the name and max_speed and number_of_cylinders instance variables
+Please note that the Car class inherits the name and max_speed variables from the Vehicle class and does not redefine them.
+Define get and set methods for the number_of_cylinders variable.
+Define a __str__ function that prints the name and max_speed and number_of_cylinders of the Car class.
+C- Define a class called Airplane as follows:
+
+The Airplane class is a subclass of the Vehicle class.
+The Airplane class has an instance variable called number_of_engines
+Define an __init__ function for the Airplane class that initializes the name and max_speed and number_of_engines instance variables
+Please note that the Airplane class inherits the name and max_speed variables from the Vehicle class and does not redefine them.
+Define get and set methods for the number_of_engines variable.
+Define a __str__ function that prints the name and max_speed and number_of_engines of the Airplane class.
+D- Define a function that performs the following:
+
+Creates an instance of a Car class and an instance of an Airplane class.
+You may call them myCar and myAirplane and choose values for their name, speed, number_of_cylinders, and number_of_engines instance variables
+Call all the get methods that are accessible to the myCar and myAirplane instances and print the returned value.
+Please note that the get methods of the Vehicle super class is available to the Car and Airplane sub classes.
+Increase the max_speed value of the myCar by 50 miles and increase the max_speed value of the myAirplane by 100 miles, by calling their setName and setMax_speed functions.
+print both myCar and myAirplane objects.
+Compare the max_speeds of myCar and myAirplane objects and print which one is faster.
